@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Steffen
+=======
+Jeg hedder bubber
+>>>>>>> a64ecc64a272397aa9102d0a0e070ec82988ea6d
